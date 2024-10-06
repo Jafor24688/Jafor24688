@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-Jafor24688/Jafor24688 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jafo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <?xml version="1.0" encoding="UTF-8" ?>
